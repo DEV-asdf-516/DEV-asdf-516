@@ -12,7 +12,7 @@
 
 ## Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-asdf-516&layout=compact&theme=dark)
+![Top Languages](./profile/top-langs.svg)
 
 
 
